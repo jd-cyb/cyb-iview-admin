@@ -94,4 +94,4 @@ cyb test
 ## License
 [MIT](http://opensource.org/licenses/MIT)
 
-Copyright (c) 2018, CYB前端小组
+Copyright (c) 2018, 京东商城-基础平台研发部-[CYB前端小组](https://github.com/jd-cyb)
