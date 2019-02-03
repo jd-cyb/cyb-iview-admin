@@ -11,7 +11,7 @@ module.exports = {
    * 启用/禁用 eslint 检测
    */
   eslint: {
-    available: true
+    available: false
   },
   webpack: {
     lessLoader: {

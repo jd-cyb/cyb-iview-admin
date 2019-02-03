@@ -5,48 +5,20 @@
   <img src="./demo.png" alt="demo">
 </div>
 
-
-## 开发
-
-```
-# 全局安装CYB
-
-npm install -g cyb-cli
-```
+## 快速开始
 
 ```bash
-# 克隆项目
+npm install # 或者 yarn install
 
-git clone https://github.com/jd-cyb/cyb-iview-admin.git
+npm run dev # 研发环境构建
 
-# 安装依赖
-
-cd cyb-iview-admin
-npm install
-
-# 启动服务
-
-cyb dev
+npm run dist # 生产发布构建
 ```
 
-> cyb会帮助我们自动打开浏览器进入研发环境。
-
-## 发布
-```bash
-# 发布
-
-cyb dist
-
-# 本地测试
-
-cyb test
-```
-
-## 示例
-
-[查看示例](http://www.hestudy.com/cyb/cyb-iview-admin/)
+> 更多命令请参考`package.json`的`scripts`.
 
 ## License
+
 [MIT](http://opensource.org/licenses/MIT)
 
-Copyright (c) 2018, [塞伯坦前端小组](https://github.com/jd-cyb)
+Copyright (c) 2018, [塞伯坦前端架构组](https://github.com/jd-cyb)
